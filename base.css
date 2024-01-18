@@ -1,0 +1,84 @@
+body{
+	
+	background-color: #06283D;
+
+}
+
+.aboutMeSection {
+	background-color: #06283D;
+	padding: 30px; 
+}
+
+#certifications {
+	background-color: #06283D;
+	padding: 200px ; /* Adjust the padding as needed */
+ }
+ 
+ /*.card {
+	/* Adjust the width and height if necessary ---- 
+	width: 12rem;
+	height: 15rem;
+  */
+ 
+ .card-size {
+	width: 12rem;
+	height: 15rem;
+ }
+ 
+
+
+.contactSection {
+    background-color: #06283D;
+    padding: 50px;
+}
+
+
+p{
+	font-family: monospace;
+}
+
+h1{
+	font-weight: 900;
+	color: #CFD8DC;
+}
+
+p.home{
+	color: white;
+}
+
+div.a{
+	text-align: left;
+}
+
+p.aboutMe{
+	color: white;
+	font-family: monospace;
+	
+}
+
+h3 {
+	color: white;
+	font-weight: 900;
+}
+
+h2 {
+	color: white;
+	font-size: 20px;
+	text-align: center;
+}
+
+label {
+    display: inline-block;
+    width: 150px;
+    text-align: right;
+}
+
+.contactMe {
+
+	background-color: whitesmoke; 
+    padding-top: 70px;
+}
+
+.contactMe p {
+	color: black;
+}
